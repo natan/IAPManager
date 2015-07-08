@@ -6,6 +6,7 @@
 //  Copyright (c) 2012 Dustlab. All rights reserved.
 //
 
+#import <AppKit/AppKit.h>
 #import <Foundation/Foundation.h>
 
 #import <StoreKit/StoreKit.h>
